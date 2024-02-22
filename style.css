@@ -69,3 +69,10 @@ d-flex list-unstyled mt-auto{
 .card{
   margin: 0 4px;
 }
+
+@media (max-width: 480px){
+  .top{
+    display: none;
+
+  }
+}
